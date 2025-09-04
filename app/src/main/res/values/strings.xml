@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dashboard_mahasiswa</string>
+    <string name="nama_mhs">Aurell Achmad Madina Hartama</string>
+    <string name="nim">NIM: 24/543963/SV/25299</string>
+    <string name="prodi">Teknologi Rekayasa Perangkat Lunak</string>
+    <string name="asal">Pemalang</string>
+    <string name="hobi">Baca novel, Gaming, Dengerin musik</string>
+    <string name="quote">“Keep learning everyday, keep growing everyday.”</string>
+</resources>
